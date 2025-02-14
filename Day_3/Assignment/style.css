@@ -1,0 +1,70 @@
+.container{
+    background-color: #D4F1F4;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5rem;
+    
+
+}
+.header{ 
+    width: 100%; 
+}
+.header h1{
+    text-align: center;
+    color:#0e3b4e;
+} 
+.navbar{
+    display: flex;
+    height:50px;
+    background-color: #21B6A8;
+    border: 1px solid black;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+.navbar a{
+    text-decoration: none;
+    color:#084058 ;
+    font-weight: bold;
+}
+.navbar a:hover{
+    color: #d7eff2;
+    font-size: 1rem;
+}
+
+.hero_section{
+    text-align: center;
+}
+.hero_section img{
+    margin: 0.8rem;
+    height: 300px;
+    width: 300px;
+    border-radius:2px ;
+    border-radius: 3px;
+    
+    
+}
+.footer{
+    background-color:#1989b9 ;
+    text-align: center;
+    margin-top: 30px;
+
+}
+.footer a{
+    text-decoration: none;
+    padding: 1rem;
+    font-size: 1rem;
+}
+#link:hover{
+    color: #d7eff2;
+    font-size: 1.3rem;
+}
+#insta:hover{
+    color: #d7eff2;
+    font-size: 1.2rem;
+}
+#git:hover{
+    color: #d7eff2;
+    font-size: 1.3rem;
+}
