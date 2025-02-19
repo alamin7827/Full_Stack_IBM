@@ -1,0 +1,31 @@
+
+#parent{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(33, 245, 245);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+
+}
+#parent>div{
+    border: 1px solid black;
+    background-color: pink;
+}
+#child1{
+    grid-area: 1/1/2/3;
+    background-color: aliceblue;
+}
+#child4{
+    grid-area: 2/1/4/2;
+}
+#child5{
+    grid-area: 2/2/4/4;
+} 
+@media (max-width:400px){
+    #parent{
+        grid-template-columns:repeat(1, 1fr) ;
+        background-color: blue;
+    }
+}
+
