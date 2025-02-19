@@ -1,0 +1,95 @@
+.container{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    height: 100vh;
+
+}
+.header{
+    height: 55px;
+    background-color: #4ec3ff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+}
+nav a{
+    text-decoration: none;
+    padding-right: 10px;
+    color: aliceblue;
+    font-weight: bold;
+}
+#magic{
+    color:#5a92b5 ;
+    text-align: center;
+}
+.box_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+.box1,.box2,.box3{
+    height: 200px;
+    width: 200px;
+    background-color:cadetblue;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    transition: all 0.5s ease-in-out 0.3s;
+   
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #4ec3ff;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.box1:hover{
+    /* background-color:chocolate; */
+    background-image: url(https://in.musafir.com/uploads/5_4_d115f28046.webp);
+    background-size: cover;
+    transform: scale(1.1);
+    font-size: 0px;
+    box-shadow:5px 5px 15px rgb(22, 201, 246);
+}
+.box2:hover{
+    /* background-color: chocolate; */
+    background-image: url(https://media.istockphoto.com/id/1188086469/photo/on-a-lake-with-my-mom.jpg?s=612x612&w=0&k=20&c=B-orEGPflolnI3AcTA7qzdWAK6ivmhjckI_v4Nw4Smo=);
+    background-size: cover;
+    transform: scale(1.1);
+    box-shadow:5px 5px 15px rgb(22, 201, 246);
+    font-size: 0px;
+    
+}
+.box3:hover{
+    /* background-color: chocolate; */
+    background-image: url(https://nstxl.org/wp-content/uploads/2023/03/Untitled-design-27.png);
+    background-size:cover;
+    transform: scale(1.1);
+    box-shadow:5px 5px 15px rgb(22, 201, 246);
+    font-size: 0px;
+}
+
+.box1:active{
+    
+    border-radius: 50%;
+}
+
+.box2:active{
+    border-radius: 50%;
+}
+.box3:active{
+    border-radius: 50%;
+}
+
