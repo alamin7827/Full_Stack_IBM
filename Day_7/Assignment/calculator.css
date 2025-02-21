@@ -30,6 +30,7 @@
 }
 .calculate>div:active{
     box-shadow: none;
+    background-color: azure;
 }
 #display{
     margin-top: 20px;
