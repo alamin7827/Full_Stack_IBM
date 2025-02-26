@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://sb.kaleidousercontent.com/67418/1920x1100/2ed9107761/bg.png");
+    background-size:cover;
+}    
+#parent{
+    width: 25%;
+    /* height: 400px; */
+    border: 2px solid black;
+    text-align: center;
+    margin: auto;
+    color: yellow;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+input{
+    width: 87%;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+input:focus{
+    background-color:cadetblue;
+}
+#parent button{
+    padding: 10px;
+    width: 50%;
+    background-color: blueviolet;
+    border: none;
+    margin-bottom: 30px;
+    
+
+}
+#parent button:hover{
+    color: white;
+    background-color: darkcyan;
+    cursor: pointer;
+}
+table{
+    
+    margin: auto;
+    width: 50%;
+
+}
+table,td{
+    color: white;
+    border: 2px solid green;
+    border-collapse: collapse;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+
