@@ -1,0 +1,40 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-photo/top-view-halloween-concept-with-copy-space_23-2148637531.jpg?t=st=1740678061~exp=1740681661~hmac=79cf487a7fcf2d426857cacc9eb1bfce2528859746b181e5afcdab3804a38e9f&w=1800");
+}
+table{
+    
+    margin: auto;
+    width: 50%;
+
+}
+td,th{
+    
+    border: 2px solid green;
+    border-collapse: collapse;
+    padding: 10px;
+    margin-top: 40px;
+}
+#searchBar{
+    background-color: yellow;
+    border: 2px solid black;
+    width: 25%;
+    height: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+
+}
+#home{
+    background-color: red;
+    border: 2px solid black;
+    width: 10%;
+    height: 30px;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+
+}
