@@ -5,7 +5,7 @@ const products=[
       "category": "Electronics",
       "price": 49.99,
       "rating": 4.5,
-      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/headphone/9/t/1/b235-bt-super-sound-neckband-jvmart-original-imagncvg9yqpvgvk.jpeg?q=90&crop=false"
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/n/a/z/-original-imah8syzx9x49v8g.jpeg?q=70"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@ const products=[
       "category": "Electronics",
       "price": 29.99,
       "rating": 4.2,
-      "image": "https://www.mytrendyphone.co.uk/images/6D-4-Speed-DPI-RGB-Gaming-Mouse-G5-Black-05042021-01-p.webp"
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/j/8/4/blaze-12800-dpi-gaming-sensor-and-8-buttons-rgb-evofox-original-imah4zf6axmkaqsc.jpeg?q=70"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@ const products=[
       "category": "Electronics",
       "price": 79.99,
       "rating": 4.7,
-      "image": "https://m.media-amazon.com/images/I/71LBvbVa95L._AC_UF1000,1000_QL80_.jpg"
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/j/y/4/f6-dwh-original-imah2hrcpcjhyn7n.jpeg?q=70"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@ const products=[
       "category": "Wearable",
       "price": 199.99,
       "rating": 4.8,
-      "image": "https://m.media-amazon.com/images/I/611KpNJPr4L._AC_UF1000,1000_QL80_.jpg"
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/g/s/y/-original-imah76jfhkg3epzj.jpeg?q=70"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@ const products=[
       "category": "Fashion",
       "price": 59.99,
       "rating": 4.3,
-      "image": "https://s3.amazonaws.com/www.irunfar.com/wp-content/uploads/2024/07/25053122/Best-Trail-Running-Shoes-Hoka-Speedgoat-6.jpg"
+      "image": "https://rukminim2.flixcart.com/image/612/612/l3es13k0/shopsy-shoe/s/1/3/6-roddick-6-bauchhaar-green-original-imag88gs4swhvjfu.jpeg?q=70"
     },
     {
       "id": 6,
@@ -45,7 +45,7 @@ const products=[
       "category": "Fashion",
       "price": 19.99,
       "rating": 4.0,
-      "image": "https://i.etsystatic.com/9134755/r/il/f2e22e/1302844190/il_570xN.1302844190_gfb6.jpg"
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/wallet-card-wallet/d/x/p/georgia-115-101ubf1010-8-wallet-urban-forest-95-original-imaghr6zbqvnfffb.jpeg?q=70"
     },
     {
       "id": 7,
