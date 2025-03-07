@@ -73,7 +73,7 @@ body{
     height: 100vh;
     background-color: white;
     overflow: scroll;
-    position: relative;
+    position: absolute;
 }
 .sidebar>ul>li{
     display: flex;
@@ -132,6 +132,9 @@ body{
     gap: 5px;
     border: 1px solid black;
     border-radius: 10px;
+    margin-left: 300px;
+    /* margin-left: 300px; */
+    
 }
 
 .video>img{
