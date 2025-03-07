@@ -115,7 +115,32 @@ body{
     width: 400px;
     background-color: blue;
 } */
+#lower-body{
+    height: 900px;
+    width: 100%;
+    margin-top: 30px;
+    /* border: 1px solid black; */
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    overflow: scroll;
+    gap: 20px;
+    
+}
+.video{
+    height: 350px;
+    width: 500px;
+    gap: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
 
+.video>img{
+    width: 100%;
+    object-fit: cover;
+    height: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
 
 
 
