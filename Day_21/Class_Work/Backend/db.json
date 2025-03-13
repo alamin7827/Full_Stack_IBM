@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "title": "a title",
+      "views": 100,
+      "id": "1"
+    },
+    {
+      "title": "another title",
+      "views": 200,
+      "id": "2"
+    },
+    {
+      "title": "ewijfeir",
+      "views": 0.6954911697188721,
+      "id": "98f8"
+    },
+    {
+      "id": "a575",
+      "title": "qh",
+      "views": 0.5184848795490007
+    },
+    {
+      "id": "e3ab",
+      "title": "bb",
+      "views": 0.12119842908635192
+    },
+    {
+      "id": "1120",
+      "title": "debraj magibaj",
+      "views": 0.24380790838832755
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "svu": [
+    {
+      "id": "1",
+      "text": "nothing 1"
+    },
+    {
+      "id": "2",
+      "text": "nothing 2"
+    }
+  ]
+}

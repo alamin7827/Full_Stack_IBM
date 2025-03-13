@@ -1,0 +1,26 @@
+#parent{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 15px;
+    padding: 20px;
+    margin: auto;
+}
+.box{
+    border: 1px solid black;
+    height: 300px;
+    width: 250px;
+    text-align: center;
+    background-color: aqua;
+    box-shadow: rgba(45, 200, 37, 1);
+
+}
+#data{
+    width: 50%;
+    border: 1px solid black;
+    margin: auto;
+    padding: 20px;
+    background-color:rebeccapurple;
+}
+#input{
+    width: 50%;
+}
